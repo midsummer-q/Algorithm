@@ -1,7 +1,7 @@
 //
 // Created by midsummer-q on 2022/3/25.
 //
-// 求圆的面积
+// 求圆的面积和周长
 #include "iostream"
 using namespace std;
 int main()
