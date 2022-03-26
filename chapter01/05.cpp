@@ -2,7 +2,7 @@
 // Created by midsummer-q on 2022/3/25.
 //
 // 输入一个学生的成绩score,判断是否及格
-#include "iostream"
+#include <iostream>
 using namespace std;
 int main()
 {

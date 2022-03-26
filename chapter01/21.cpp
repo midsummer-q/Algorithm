@@ -2,7 +2,7 @@
 // Created by midsummer-q on 2022/3/26.
 //
 // 输入一个大于1的整数n（n<100），若n为奇数，则n变为3n+1；否则n变为n/2。经过若干变换，n会变为1并停止，输出变换次数
-#include "iostream"
+#include <iostream>
 using namespace std;
 int main()
 {

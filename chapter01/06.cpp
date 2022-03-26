@@ -2,7 +2,7 @@
 // Created by midsummer-q on 2022/3/25.
 //
 // 输入一个学生的成绩score，判断其成绩等级（小于60为不及格，60～69为及格，70～79为中等，80～89为良好，90～100为优秀）
-#include "iostream"
+#include <iostream>
 using namespace std;
 int main()
 {

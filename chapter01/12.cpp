@@ -2,7 +2,7 @@
 // Created by midsummer-q on 2022/3/25.
 //
 // 输入一个整数n，输出n行1～n的整数（输出1～n的整数时遇到5停止）
-#include "iostream"
+#include <iostream>
 using namespace std;
 int main()
 {

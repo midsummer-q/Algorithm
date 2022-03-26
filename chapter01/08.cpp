@@ -2,7 +2,7 @@
 // Created by midsummer-q on 2022/3/25.
 //
 // 判断输入的数字是否为水仙花数
-#include "iostream"
+#include <iostream>
 using namespace std;
 int main()
 {

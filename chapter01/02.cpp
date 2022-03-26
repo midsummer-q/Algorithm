@@ -2,9 +2,9 @@
 // Created by midsummer-q on 2022/3/25.
 //
 // 将2.0开平方后设置不同的精度和宽度输出
-#include "iostream"
-#include "iomanip"
-#include "cmath"
+#include <iostream>
+#include <iomanip>
+#include <cmath>
 using namespace std;
 int main()
 {

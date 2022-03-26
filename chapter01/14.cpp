@@ -2,7 +2,7 @@
 // Created by midsummer-q on 2022/3/26.
 //
 // 输入一个整数n（0<n<10），输出n!
-#include "iostream"
+#include <iostream>
 using namespace std;
 int main()
 {

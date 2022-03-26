@@ -2,7 +2,7 @@
 // Created by midsummer-q on 2022/3/26.
 //
 // 输入一个整数n，输出1～n的所有整数，遇到偶数时不输出
-#include "iostream"
+#include <iostream>
 using namespace std;
 int main()
 {
