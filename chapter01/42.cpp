@@ -18,10 +18,10 @@ int main() {
     cin >> n;
 
     int **a = new int *[n];
-//    for (int i = 0; i < n; i++) {
-//        a[i] = new int[n];
-//        memset(a[i], 0, n * sizeof(int));
-//    }
+    for (int i = 0; i < n; i++) {
+        a[i] = new int[n];
+        memset(a[i], 0, n * sizeof(int));
+    }
 //    for (int i = 0; i < n; i++) {
 //        for (int j = 0; j < n; j++) {
 //            cout << setw(5) << a[i][j];
