@@ -3,14 +3,15 @@
 //
 // 输入一个整数n，输出1～n的所有整数
 #include <iostream>
+
 using namespace std;
-int main()
-{
+
+int main() {
     int n;
-    cin>>n;
+    cin >> n;
     int i = 1;
-    while (i<=n){
-        cout<<i<<endl;
+    while (i <= n) {
+        cout << i << endl;
         i++;
     }
 
