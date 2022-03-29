@@ -4,3 +4,4 @@ project(Algorithm)
 set(CMAKE_CXX_STANDARD 14)
 
 ADD_SUBDIRECTORY(chapter01)
+ADD_SUBDIRECTORY(chapter02)
